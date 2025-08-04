@@ -1,6 +1,6 @@
 # PowerBI
 📊 Netflix Content Analysis Dashboard <br>
-This project presents a comprehensive Power BI dashboard that analyzes Netflix's content library from 1925 to 2021, covering 8,802 total titles including movies and TV shows. The dataset was visualized using Power BI to uncover insights about genres, ratings, countries, release years, and more.
+This project presents a comprehensive Power BI dashboard that analyzes Netflix's content library from 1925 to 2021, covering 8,802 total titles including movies and TV shows. The dataset was visualized using Power BI to uncover insights about genres, ratings, countries, release years, and more. <br>
 <br>
 🔍 Key Highlights <br>
 Total Titles Analyzed: 8,802 <br>
