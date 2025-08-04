@@ -8,16 +8,16 @@ Time Span: 1925 – 2021 <br>
 Number of Locations: 749 <br>
 Types of Content: Movies (69.62%) and TV Shows (30.38%) <br>
 Most Frequent Ratings: <br>
-&nbsp TV-MA: 3.2K titles <br>
-&nbsp TV-14: 2.2K titles <br>
+=> TV-MA: 3.2K titles <br>
+=> TV-14: 2.2K titles <br>
 Top Genres: <br>
-&nbsp Dramas, International: 362 titles <br>
-&nbsp Documentaries: 359 titles <br>
-&nbspStand-Up Comedy: 334 titles <br>
+=> Dramas, International: 362 titles <br>
+=> Documentaries: 359 titles <br>
+=> Stand-Up Comedy: 334 titles <br>
 Top Countries by Content Production: <br>
-&nbsp 🇺🇸 United States: 2.82K titles <br>
-&nbsp 🇮🇳 India: 0.97K titles <br>
-&nbsp 🇬🇧 United Kingdom, 🇯🇵 Japan, 🇨🇦 Canada, 🇰🇷 South Korea, 🇪🇸 Spain, etc. <br>
+=> 🇺🇸 United States: 2.82K titles <br>
+=> 🇮🇳 India: 0.97K titles <br>
+=> 🇬🇧 United Kingdom, 🇯🇵 Japan, 🇨🇦 Canada, 🇰🇷 South Korea, 🇪🇸 Spain, etc. <br>
 <br>
 📅 Content Over Time <br>
 The timeline shows a significant increase in content production after the year 2000, with a steep rise around 2018–2020, reflecting Netflix’s aggressive expansion. <br>
